@@ -1,0 +1,111 @@
+SAP Signavio Process Transformation Suite solutions.
+
+SAP Signavio August 2023 release - Discover how best to start your transformation and obtain value from day one 
+Written by Product Marketing | 5 min read
+Published on: August 24th 2023 - Last modified: August 24th, 2023
+
+
+Discover the power of our latest product release, offering a new approach to accelerate transformation projects. With new integrations, features, and enhanced functionality, gain valuable insights and speed up your insights to value. Read on to explore the August 2023 update...
+
+
+
+This product release provides new and enhanced functionality to support your transformation initiatives from the start, increased connectivity and scalability, and new integrations, features and capabilities designed to accelerate your time to value.  
+
+
+
+Read on to find out more about the August 2023 product update… 
+
+
+
+A highlight of the release is extended support for SAP ECC legacy systems allowing you to deploy the analytical capabilities of SAP Signavio Process Insights and leverage the plug and gain approach in your transformation initiatives. For more details on this highlight, please read this blog post. 
+
+
+
+The August 2023 release also provides new capabilities, features and value accelerators across the whole SAP Signavio Process Transformation Suite: 
+
+
+
+SAP Signavio Process Insights
+
+
+SAP Signavio Process Intelligence
+
+
+SAP Signavio Process Manager
+
+
+SAP Signavio Value Accelerators
+
+
+SAP Signavio Journey Modeler
+
+
+SAP Signavio Process Governance
+
+
+SAP Signavio Process Collaboration Hub
+
+
+
+The main benefits from this release include enhanced guidance on how best to start your transformation and value realization, faster time-to-analysis, an improved performance and integration experience and clear visibility and insights into customer sentiment. 
+
+
+
+Deep Dive into the details 
+
+
+SAP Signavio Process Insights: With the August 2023 release, we are excited to announce the extended support for SAP ECC 6.0 EHP 0-6 legacy systems. This new update allows you to connect to SAP Signavio Process Insights and to leverage our process analysis and mining capabilities. By connecting to SAP Signavio Process Insights, you can also leverage the plug and gain approach for your transformation initiatives. Closely linked to this area is the transformation planning with solution process flows update which enables transformation leads to leverage the best practices linked to process flows and available in SAP Signavio Process Explorer. Value analysis of improvement opportunities shows you how much value, in monetary terms, you can gain by improving the current automation rate of each of your performance indicators to the target rate. We also introduce Focused views: improvement opportunities for process flows which highlight improvements for all process flows that have guided analysis, telling you which improvement opportunities are available for which process flows. Other updates released include internal benchmarking for process performance indicators, bookmarking and favorites, excluding personal data from data collection in ERP systems and selection of a data collection timeframe.  
+
+
+
+SAP Signavio Process Intelligence: One of the obvious highlights in this release is a revamped user interface, including an improved navigation, menu and tabs, header, and more. Another highlight is theconnection to iFlows for SAP Cloud Integration within the SAP Integration Suite, which will help process analysts accelerate the connection tothird-party source systemswith ready-to-use adapters. New released accelerators help further speed time to value with our solution (for details please check the section below “SAP Signavio Value Accelerators”). This release also features automated insights enhancements providing process analysts withadditional context, such as the possibility to identify the behavior of process anomalies over time.New SIGNAL functions, metrics and dashboard enhancements allow process analysts to further shorten time to insights. When it comes to closing the loop from insight to action, new Action types now include SAP Cloud Integration andSAP Event Mesh, helping analysts and business users close the loop from insight to action and easily realize process improvement scenarios across different systems irrespective of whether SAP or not enabling better integrations to the wider ecosystem. 
+
+
+
+SA
+
+
+
+P Signavio Process Manager: We are pleased to introduce the business process model connector for SAP Signavio solutions. The new connector allows users to transfer data bi-directionally between SAP Solution Manager and SAP Signavio Process Manager with improved performance, security and connectivity, enhanced integration between business and IT streams with a consistent and reliable process synchronization. 
+
+
+
+
+
+
+SAP Signavio Journey Modeler: Here we released two new features. The first update enables you to manually input and visualize Net Promoter Score (NPS) metric on each step of the journey, enabling you to gauge customer satisfaction accurately.We also introduce fast copy and paste functionality for journey elements within a journey model and from another journey model in the workspace. 
+
+
+
+
+
+SAP Signavio Process Governance: we deliver bulk diagram approval triggering. In managing multiple diagram revisions, the complexity often lies in initiating the approval processes individually for each diagram. To streamline this, process modelers will be able, from the SAP Signavio Process Collaboration Hub, to trigger the approval process for multiple diagram revisions in bulk. 
+
+
+
+SAP Signavio Process Collaboration Hub: We are pleased to introduce change alerts e-mail notifications for process changes linked to journey. These alerts are designed to improve collaboration and efficiency among journey and process owners and modelers by providing timely email notifications on process changes linked to journey models, ensuring all stakeholders stay informed and aligned with the SAP Signavio solutions.  
+
+
+
+SAP Signavio Value Accelerators: This latest release sees the launch of five value accelerators across the SAP Signavio Process Transformation suite. Firstly, we launched new Value Accelerators for SAP Signavio Process Insights to strengthen the automotive industry and SAP Ariba solutions coverage of process flows, performance indicators and recommendations in the solution. For SAP Signavio Process Intelligence, we introduced new value accelerators to support the analysis of the procure-to-pay process in SAP Ariba solutions, the issue-to-resolution process in Jira Service Management for Cloud / Data Center and Server and the acquire-to-onboard process for tangible assets in SAP S/4HANA. Lastly, we introduced new value accelerators for the SAP Signavio Process Manager covering the Retail,Automotive and Professional Services industries which consist ofcapability maps and process models that support the definition of industry-specific process landscapes. These can be accessed via the SAP Signavio Process Explorer (please follow this link) 
+
+
+
+
+Partnership with LeanIX: Our partnership with LeanIX continues to grow, and we are pleased to announce two developments. The August 2023 release sees firstly, the introduction of enhanced integration capabilities. What this means is on one hand is that the SAP Signavio Process Task and Process Activity information is now directly linked to the LeanIX EA Fact Sheets and on the other hand, the mapping of an LeanIX related Fact Sheet (e.g., Application to User Group) to the SAP Signavio Dictionary Item Attributes is now available. 
+
+
+
+We are also excited to announce an evolution of LeanIX’s Meta Model, for which LeanIX is offering individual support for interested parties. This new model will contain an additional 'Platform' Fact Sheet type, changes in Fact Sheet names, and added out-of-the-box subtypes for several Fact Sheet types. 
+
+
+
+This blog post only provides a high-level overview of the latest features and enhancements of SAP Signavio Process Transformation Suite. For more details, please read this detailed blog and our release notes. 
+
+
+
+You can find the step-by-step tutorial for newly released features
+
+https://sapsignavio.enable-now.cloud.sap/pub/releases/index.html?library=library.txt&show=book!BO_C5EE3B6360B20A9E#slide!SL_4745B68BCDBAF89
+
+Discover the power of our latest product release, offering a new approach to accelerate transformation projects. With new integrations, features, and enhanced functionality, gain valuable insights and speed up your insights to value. Read on to explore the August 2023 update...
